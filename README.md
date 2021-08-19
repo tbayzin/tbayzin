@@ -1,4 +1,4 @@
-<p style="color:red">Salute,its Tarik</p>
+<h1 align="center">Salute,its Tarik</h1>
 <h3 align="center">Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbayzin&label=Profile%20views&color=0e75b6&style=flat" alt="tbayzin" /> </p>
