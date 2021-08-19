@@ -1,9 +1,6 @@
 <h1 align="center">Salute,its Tarik</h1>
 <h3 align="center">Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tbayzin&label=Profile%20views&color=0e75b6&style=flat" alt="tbayzin" /> </p>
-
-
 
 - 📝 Check my blog (not about programming) [tbayzin.medium.com](tbayzin.medium.com)
 
@@ -23,3 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tbayzin&theme=dark" alt="tbayzin" /></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tbayzin&label=Profile%20views&color=0e75b6&style=flat" alt="tbayzin" /> </p>
