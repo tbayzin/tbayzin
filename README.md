@@ -2,7 +2,7 @@
 <h3 align="center">Backend developer</h3>
 
 
-📝 Check My Blog (not about programming) [tbayzin.medium.com](tbayzin.medium.com)
+📝 Check My Blog (not about programming) [tbayzin.medium.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
