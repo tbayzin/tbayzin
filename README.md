@@ -12,7 +12,6 @@
 <a href="https://tbayzin.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tbayzin" height="30" width="40" /></a>
 </p>
 
-  ![Snake animation](https://github.com/tbayzin/tbayzin/blob/output/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tbayzin&theme=dark" alt="tbayzin" /></p>
 
-
+  ![Snake animation](https://github.com/tbayzin/tbayzin/blob/output/github-contribution-grid-snake.svg)
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbayzin&label=Profile%20views&color=0e75b6&style=flat" alt="tbayzin" /> </p>
 
 
